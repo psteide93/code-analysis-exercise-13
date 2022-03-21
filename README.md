@@ -21,9 +21,9 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-|    ("Parnell", "Steide", 28)   |   person = {firstName: "Parnell", lastName:"Steide", age: 28,}| 
-|("dog" "cat" "fish")       |    	person = {firstName: "dog", lastName:"cat", age: "fish",}    | 
-|(-34, 0, "111111111111")       | person = {firstName: -34, lastName:0, age: "111111111111",}  | 
+|    ("Parnell", "Steide", 28)   | {firstName: "Parnell", lastName:"Steide", age: 28,}| 
+|("dog" "cat" "fish")       |   {firstName: "dog", lastName:"cat", age: "fish",}    | 
+|(-34, 0, "111111111111")       | {firstName: -34, lastName:0, age: "111111111111",}  | 
 
 <table>
   <tr>
